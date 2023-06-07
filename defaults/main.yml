@@ -3,5 +3,5 @@
 
 krew_version: "v0.2.1"
 
-krew_plugins:
-  - "ingress-nginx"
+#krew_plugins:
+#  - "ingress-nginx"
